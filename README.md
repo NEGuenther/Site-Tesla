@@ -1,4 +1,4 @@
-# DevClub - Tesla Website
+# Tesla Website
 
 Este é um projeto de website desenvolvido como parte de uma aula na plataforma DevClub. O objetivo deste projeto é criar uma interface interativa para exibir diferentes modelos de carros da Tesla, com opções para compra e test-drive.
 
