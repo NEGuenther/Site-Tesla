@@ -2,6 +2,8 @@
 
 Este é um projeto de website desenvolvido como parte de uma aula na plataforma DevClub. O objetivo deste projeto é criar uma interface interativa para exibir diferentes modelos de carros da Tesla, com opções para compra e test-drive.
 
+![Captura de Tela](img/print.png)
+
 ## Funcionalidades
 
 - **Exibição de Modelos:** Mostra três modelos diferentes de carros da Tesla (Model Y, Model 3, Model X) com informações e vídeos/imagens.
@@ -23,11 +25,11 @@ Este é um projeto de website desenvolvido como parte de uma aula na plataforma 
 │   ├── logo.png
 │   ├── model-3.png
 │   ├── model-x.png
-│   └── model-y.mp4
+│   ├── model-y.mp4
+|   └── print.png
 ├── style.css
 ├── scripts.js
 └── index.html
-```
 
 ## Como Executar o projeto
 
