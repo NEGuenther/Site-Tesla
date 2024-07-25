@@ -30,6 +30,7 @@ Este é um projeto de website desenvolvido como parte de uma aula na plataforma 
 ├── style.css
 ├── scripts.js
 └── index.html
+```
 
 ## Como Executar o projeto
 
